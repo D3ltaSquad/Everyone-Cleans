@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WorkTypeDefs>
+
+  <WorkTypeDef>
+    <defName>Cleaning</defName>
+    <labelShort>Clean</labelShort>
+    <pawnLabel>Cleaner</pawnLabel>
+    <gerundLabel>Cleaning</gerundLabel>
+    <description>Clear snow and clean the floor in the home area.</description>
+    <verb>Clean</verb>
+    <naturalPriority>200</naturalPriority>
+    <alwaysStartActive>true</alwaysStartActive>
+    <requireCapableColonist>true</requireCapableColonist>
+    <workTags>
+      <!--li>ManualDumb</li>
+      <li>Cleaning</li-->
+    </workTags>
+  </WorkTypeDef>
+
+
+
+</WorkTypeDefs>
